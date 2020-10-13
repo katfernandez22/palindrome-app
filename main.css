@@ -1,0 +1,37 @@
+body {
+  background-color: white;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+	font-size: 4rem;
+	padding: 1%;
+	color: deepskyblue;
+}
+
+h2 {
+  color: deepskyblue;
+  font-size: 3rem;
+}
+
+.word-wrap {
+  padding: 20px 0px 0px 0px;
+}
+
+.form {
+  width: 100%;
+}
+
+.searchbtn {
+  height: 40px;
+}
+
+.searchbtn:hover {
+  background-color: grey;
+}
+
+input {
+  width: 30%;
+  height: 40px;
+}
